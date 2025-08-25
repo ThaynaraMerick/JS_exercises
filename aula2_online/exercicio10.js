@@ -6,7 +6,7 @@ const grade3 = Number(prompt("Digite a terceira nota: "));
 const average = (grade1 + grade2 + grade3) / 3;
 
 console.log("Média =", average);
-if (media >= 7) {
+if (average >= 7) {
     console.log("Aprovado!!!");
 } else {
     console.log("Reprovado");
