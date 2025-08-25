@@ -1,6 +1,6 @@
-# 📘 Lista de Exercícios – JavaScript
+# 📘 Lista de Exercícios – JavaScript (Softex)
 
-Este repositório contém a resolução da **Lista de Exercícios – 23.08** utilizando **JavaScript** no ambiente **Node.js**, com a biblioteca [`prompt-sync`](https://www.npmjs.com/package/prompt-sync) para entrada de dados no terminal.
+Este repositório contém a resolução da **Lista de Exercícios de JS** utilizando **JavaScript** no ambiente **Node.js**, com a biblioteca [`prompt-sync`](https://www.npmjs.com/package/prompt-sync) para entrada de dados no terminal.
 
 O objetivo foi praticar os conceitos básicos de programação: **variáveis, operadores, condicionais, entrada/saída de dados e funções matemáticas**.
 
@@ -81,7 +81,5 @@ O objetivo foi praticar os conceitos básicos de programação: **variáveis, op
 
 ## 🚀 Conclusão
 Esta lista de exercícios demonstra como aplicar conceitos fundamentais de programação em **JavaScript**.
-
-O uso de variáveis, condicionais, operadores e funções matemáticas é essencial para construir lógica em qualquer aplicação.  
 
 ---
